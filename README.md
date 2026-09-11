@@ -1,4 +1,4 @@
-```
+<pre>
 LUKE DUPONT
 ===========
  
@@ -9,9 +9,9 @@ towards the AWS Developer Associate.
 ---------------
 Connect With Me
  
-» GitHub     → https://github.com/lkdpnt
-» LinkedIn   → https://www.linkedin.com/in/luke-dupont287/
-» Email      → lkdpnt@icloud.com
+» GitHub     → <a href="https://github.com/lkdpnt">https://github.com/lkdpnt</a>
+» LinkedIn   → <a href="https://www.linkedin.com/in/luke-dupont287/">https://www.linkedin.com/in/luke-dupont287/</a>
+» Email      → <a href="mailto:lkdpnt@icloud.com">lkdpnt@icloud.com</a>
  
 --------------
 Skills & Tools
@@ -41,19 +41,19 @@ Featured Projects
     GridSearchCV-tuned RBF SVM reached F1 0.726 on imbalanced data. Deployed as a real-time Flask API
     on AWS EC2 with <200 ms inference.
   ✦ Stack: Python, TensorFlow, Scikit-learn, Flask, AWS EC2
-  ✦ Repo:  https://github.com/lkdpnt/emotion-classification-cnn
+  ✦ Repo:  <a href="https://github.com/lkdpnt/emotion-classification-cnn">https://github.com/lkdpnt/emotion-classification-cnn</a>
  
 » Student Project Management System
   ✦ Role-based project management system (team lead). Django MVC, RESTful APIs, authentication, CSRF
     and SQL-injection protection; optimised ORM queries and recommended the PostgreSQL migration.
   ✦ Stack: Django, PostgreSQL, AWS, Bootstrap
-  ✦ Repo:  https://github.com/lkdpnt/student_project_management_system
+  ✦ Repo:  <a href="https://github.com/lkdpnt/student_project_management_system">https://github.com/lkdpnt/student_project_management_system</a>
  
 » Stop-Motion Animation App
   ✦ Android app with CameraView frame capture, Glide async loading and a RecyclerView gallery.
     Recursive frame scheduling for dynamic frame-rate control, tuned to stay smooth on low-end devices.
   ✦ Stack: Kotlin, Android Studio, Glide
-  ✦ Repo:  https://github.com/lkdpnt/StopMotionApp
+  ✦ Repo:  <a href="https://github.com/lkdpnt/StopMotionApp">https://github.com/lkdpnt/StopMotionApp</a>
  
 --------------------------
 Experience
@@ -64,4 +64,4 @@ Experience
 --------------------------
 Thanks for stopping by! Currently open to junior software and cloud roles.
 If you've got an interesting problem, feel free to shoot me a message.
-```
+<pre>

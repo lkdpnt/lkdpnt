@@ -58,8 +58,8 @@ Featured Projects
 --------------------------
 Experience
  
-» Software Engineer (Freelance), Briarwood Partners, London — Jul 2026 – Present
-» Hardware Technician, Self-Employed, Hertfordshire — 2022 – Present
+» Software Engineer (Freelance), Briarwood Partners, London, Jul 2026 – Present
+» Hardware Technician, Self-Employed, Hertfordshire, 2022 – Present
  
 --------------------------
 Thanks for stopping by! Currently open to junior software and cloud roles.
